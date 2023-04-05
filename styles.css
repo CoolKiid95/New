@@ -1,5 +1,9 @@
+:root{
+ 
+}
+
 h1{
-    color: brown;
+    color: brown!important ;
 }
 section{
     background-color: aqua;
